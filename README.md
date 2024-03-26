@@ -1,4 +1,4 @@
-# NestJS Started template
+# NestJS started template
 
 This starter template aims to streamline the development process by providing a pre-configured project structure, essential modules, guards, interceptors, controllers, services and utilities that most applications require. Build on top of RestAPI architecture, this template sets the foundation, letting you jump straight into implementing your business logic.
 
